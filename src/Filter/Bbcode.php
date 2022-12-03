@@ -1,5 +1,5 @@
 <?php
-namespace ProjetNormandie\MessageBundle\Filter;
+namespace ProjetNormandie\BbcodeBundle\Filter;
 
 class Bbcode
 {
